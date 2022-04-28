@@ -1,6 +1,6 @@
-# Guess My Number
+# [Guess My Number](https://natagarl.github.io/guess-my-number/)
 
-Study project on [_"The Complete JavaScript Course 2022"_](https://www.udemy.com/course/the-complete-javascript-course/) by [_Jonas Schmedtmann_](https://www.udemy.com/user/jonasschmedtmann/).
+Study project on [_The Complete JavaScript Course 2022_](https://www.udemy.com/course/the-complete-javascript-course/) by [_Jonas Schmedtmann_](https://www.udemy.com/user/jonasschmedtmann/).
 
 ## Descriprion
 
