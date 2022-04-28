@@ -8,4 +8,4 @@ A simple game that generates a random number from 1 to 20 and guides the user to
 
 ## How it was made
 
-After learning the fundamentals of JavaScript and some small exercises, this project became _the first practical task in the course_. _HTML_ and _CSS_ code was written by the teacher. I wrote _JavaScript_ code along with video explanations.
+After learning the fundamentals of JavaScript and some small exercises, this project became _the first practical task in the course_. _HTML_ and _CSS_ code was written by the teacher. I wrote _JavaScript_ code while watching video explanations.
